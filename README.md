@@ -1,6 +1,6 @@
 # Mobile_Banking
 
-A new Flutter project.
+An app where a simple transcations are demonstrated.
 
 ## Getting Started
 
